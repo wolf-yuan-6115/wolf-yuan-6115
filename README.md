@@ -15,7 +15,7 @@ Working on these projects:
 - [evobot](https://github.com/eritislami/evobot)
   - Chinese translator
   - Top 3 contributor
-- [Black cat](https://github.com/Discord-cat-dev/blackcat
+- [Black cat](https://github.com/Discord-cat-dev/blackcat)
   - Owner
   - Available on Discord
 
