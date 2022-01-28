@@ -5,7 +5,7 @@
 
 <a href='https://ko-fi.com/V7V85BBH3' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
-I'm programming using `Node.js` language
+I'm programmer using `Node.js` language
 
 Want to talk with me?
 * Open your Discord and add `Wolf yuan#1135`
