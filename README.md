@@ -15,7 +15,7 @@ Want to talk with me?
 
 ### 💻 Projects
 
-[![evobot](https://github-readme-stats.vercel.app/api/pin/?username=eritislami&repo=evobot&bg_color=30,ef3910,aa381e&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/eritislami/evobot)
+[![blackcat](https://github-readme-stats.vercel.app/api/pin/?username=blackcatbot&repo=blackcat&bg_color=30,ef3910,aa381e&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/blackcatbot/blackcat)
 [![Flowermoon](https://github-readme-stats.vercel.app/api/pin/?username=wolf-yuan-6115&repo=flowermoon&bg_color=30,0e71ea,5837d3&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/wolf-yuan-6115/flowermoon)
 
 ***
@@ -32,3 +32,4 @@ Please use these languages to contact me!
 ### ℹ️ Badges
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api/?username=wolf-yuan-6115&bg_color=30,282828,3f3f3f&title_color=fff&text_color=fff&icon_color=fff)
+![Discord stats](https://discord.c99.nl/widget/theme-3/669194742218752070.png)
