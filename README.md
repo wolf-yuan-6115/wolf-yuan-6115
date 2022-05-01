@@ -1,6 +1,5 @@
 # 👋 Hello there!
-### I am a student from Taiwan!
-### My name is *Wolf yuan*
+### I'm **Wolf yuan**
 
 ![I'm winner 🏆](https://github-profile-trophy.vercel.app/?username=wolf-yuan-6115&column=3&margin-w=15&margin-h=10&theme=discord&no-frame=true)
 
@@ -9,9 +8,9 @@
 I'm programmer using `Node.js` language
 
 Want to talk with me?
-* My Discord username: `Wolf yuan#1135`
+* My Discord username: `Wolf yuan#6173`
 * Email to wolf@catmusic.ml
-* 
+* Use your magic power
 
 ***
 
