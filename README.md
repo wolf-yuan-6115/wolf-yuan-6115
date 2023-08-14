@@ -1,35 +1,43 @@
-# 👋 Hello there!
-### I'm **Wolf yuan**
+<h1 align="center">👋 I'm Wolf yuan</h1>
 
-![](https://dcbadge.vercel.app/api/shield/669194742218752070?theme=default-inverted)
+<p align="center">
+  I'm a developer, that's it.
+</p>
 
-<a href='https://ko-fi.com/V7V85BBH3' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<hr>
 
-I'm programmer using `Node.js` language
+<h2 align="center">🍪 Tech cookies</h2>
 
-Want to talk with me?
-* My Discord username: `Wolf yuan#6173`
-* Email to wolf@catmusic.ml
-* Use your magic power
+<h3 align="center">Everyday:</h3>
 
-***
+<div align="center">
+  <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="fedora"> &nbsp; &nbsp;
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"> &nbsp; &nbsp;
+  <img src="https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220" alt="pnpm"> &nbsp; &nbsp;
+</div>
 
-### 💻 Projects
+<h3 align="center">Things you can see:</h3>
 
-[![blackcat](https://github-readme-stats.vercel.app/api/pin/?username=blackcatbot&repo=blackcat&bg_color=30,15202b,16283a&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/blackcatbot/blackcat)
-[![Flowermoon](https://github-readme-stats.vercel.app/api/pin/?username=wolf-yuan-6115&repo=flowermoon&bg_color=30,15202b,16283a&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/wolf-yuan-6115/flowermoon)
+<div align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> &nbsp; &nbsp;
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="HTML5"> &nbsp; &nbsp;
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="HTML5"> &nbsp; &nbsp;
+</div>
 
-***
+<h3 align="center">Things I will see:</h3>
 
-### 🌎 Language
+<div align="center">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"> &nbsp; &nbsp;
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker"> &nbsp; &nbsp;
+  <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt="raspberry pi"> &nbsp; &nbsp;
+</div>
 
-- English
-- Chinese (Simplified and traditional, recommend traditional)
+<hr>
 
-Please use these languages to contact me!
+<h2 align="center">✉️ Contact me</h2>
 
-***
-
-### ℹ️ Badges
-
-![GitHub stats](https://github-readme-stats.vercel.app/api/?username=wolf-yuan-6115&bg_color=30,282828,3f3f3f&title_color=fff&text_color=fff&icon_color=fff)
+<div align="center">
+  <a href="mailto:wolf@wolf-yuan.dev">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+  </a>
+</div>
