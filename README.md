@@ -1,40 +1,46 @@
-<h1 align="center">Wolf Yuan</h1>
+# Hello there, I'm Wolf Yuan
 
-<h3 align="center">A passionate student developer from Taiwan, striving to build innovative solutions.</h3>
+> Life is too short to design a innovated GitHub profile readme, let's use current one and call it a day.
 
-<p align="center">A dedicated student from Taiwan, proficient in JavaScript and experienced in frontend development. Committed to continual learning, supporting open source initiatives, and exploring new opportunities in the field.</p>
+## Technology
+
+I'm mainly developing frontend web applications, using Astro, React, Next.js (Duh, same thing?), TailwindCSS. I care about website design, every padding and margin matters!
+
+Backend is not a problem too, I've spent several years developing Discord bots. It helped me learn all the techy stuff like GitHub.
+
+Ah frontend and backend is not enough? I know how to manage a Linux server. I've played Linux for years now, it's not a problem to dig up documentations or use my knowledge to setup a server. Currently a Fedora & Arch user. (I use Arch btw. Also Hyprland.)
+
+## Designing
+
+I have some passion in UI/UX design, I tried to make them better and more useful for users. User don't care about your backend techy stuff, bringing them a better user experience is a better choice.
+
+Currently designing with Figma (Prototyping and pure flat design), and... Canva...?
+
+## Game
+
+Not going to mention them here, my skill sucks.
+
+## Skill icons for fast readers
+
+To bring this readme some colors and easier to understand my stack without reading whole chunk of text above, here's some friendly icons:
+
+<p align="center">
+  <a href="https://www.last.fm/user/wolfyuan">
+    <img align="center" src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,astro,nextjs,react,webstorm,vercel,cloudflare,netlify"></img>
+  </a>
+</p>
 
 ---
 
-## My Stack
+<h3 align="center">Personal stuff</h3>
 
-**Frontend:**
+<p align="center">Heavy music enjoyer, here's some music for you.</p>
 
-* ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-* ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-* ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-* ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p align="center">
+  <a href="https://www.last.fm/user/wolfyuan">
+    <img align="center" src="https://lastfm-recently-played.vercel.app/api?user=wolfyuan&footer_style=compact_stats&show_user=header&width=550&bg_color=121212"></img>
+  </a>
+</p>
 
-**Tools & Platforms:**
-
-* ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-* ![pnpm](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
-* ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-* ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-**Other:**
-
-* ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-
----
-
-## Let's Connect!
-
-Feel free to reach out for any coding adventures or just to chat!
-
-<div align="center">
-  <a href="https://wolf-yuan.dev"><img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Website" /></a>
-  <a href="https://www.instagram.com/wolf.yuan/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <img src="https://img.shields.io/badge/wolf.yuan-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord username wolf.yuan" />
-  <a href="mailto:wolf@wolf-yuan.dev"><img src="https://img.shields.io/badge/Email-1d9bf0?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email" /></a>
-</div>
+<p align="center">Or visit my <a href="https://listenbrainz.org/user/wolfyuan/">ListenBrainz</a></p>
+<p align="center"><a href="https://wolf-yuan.dev/">Or kindly pay a visit to my website</a></p>
