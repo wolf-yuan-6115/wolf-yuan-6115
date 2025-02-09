@@ -42,5 +42,5 @@ To bring this readme some colors and easier to understand my stack without readi
   </a>
 </p>
 
-<p align="center">Or visit my <a href="https://listenbrainz.org/user/wolfyuan/">ListenBrainz</a></p>
+<p align="center">Or visit my <a href="https://listenbrainz.org/user/wolfyuan/">ListenBrainz</a>, currently prefer this source because it's free & open</p>
 <p align="center"><a href="https://wolf-yuan.dev/">Or kindly pay a visit to my website</a></p>
