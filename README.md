@@ -25,9 +25,7 @@ Not going to mention them here, my skill sucks.
 To bring this readme some colors and easier to understand my stack without reading whole chunk of text above, here's some friendly icons:
 
 <p align="center">
-  <a href="https://www.last.fm/user/wolfyuan">
-    <img align="center" src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,astro,nextjs,react,webstorm,vercel,cloudflare,netlify"></img>
-  </a>
+  <img align="center" src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,astro,nextjs,react,webstorm,vercel,cloudflare,netlify"></img>
 </p>
 
 ---
